@@ -1,6 +1,6 @@
 # custom-planck-keymap
 
-This is a custom make planck keyboard with different circuit layout.
+This is a custom made Planck keyboard with a custom circuit layout (not the same comparing to official one).
 
 
 #### Row, Column Pin map
