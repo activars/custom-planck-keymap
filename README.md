@@ -27,5 +27,7 @@ This is a custom made Planck keyboard with a custom circuit layout (not the same
 | col10  | 27  | D7      |      
 | col11  | 11  | B3      |      
 
+#### Circuit Board Pins
 
+![alt text](https://raw.githubusercontent.com/activars/custom-planck-keymap/master/pin-layout.png)
 
