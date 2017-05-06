@@ -29,5 +29,5 @@ This is a custom made Planck keyboard with a custom circuit layout (not the same
 
 #### Circuit Board Pins
 
-![alt text](https://raw.githubusercontent.com/activars/custom-planck-keymap/master/pin-layout.png)
+<img src="https://raw.githubusercontent.com/activars/custom-planck-keymap/master/pin-layout.png" width="300px"/>
 
