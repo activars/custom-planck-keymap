@@ -2,6 +2,17 @@
 
 This is a custom made Planck keyboard with a custom circuit layout (not the same comparing to official one).
 
+### How To
+
+```
+# Clone repo and clone submodulees
+git clone git@github.com:activars/custom-planck-keymap.git
+cd custom-planck-keymap
+git submodule init && git submodule update
+
+# Run build script
+./build.sh
+```
 
 #### Row, Column Pin map
 
