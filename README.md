@@ -4,14 +4,23 @@ This is a custom made Planck keyboard with a custom circuit layout (not the same
 
 ### How To
 
-```
+```bash
 # Clone repo and clone submodulees
 git clone git@github.com:activars/custom-planck-keymap.git
 cd custom-planck-keymap
 git submodule init && git submodule update
+```
 
+```bash
 # Run build script
 ./build.sh
+```
+
+```bash
+# install firmware
+dfu-programmer atmega32u4 erase --force
+dfu-programmer atmega32u4 flash hex/<firmware file>.hex
+dfu-programmer atmega32u4 reset
 ```
 
 #### Row, Column Pin map
