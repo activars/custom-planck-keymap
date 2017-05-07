@@ -2,5 +2,5 @@
 pushd firmware/keyboards/kb/
 make
 popd
-mv firmware/kb_default.hex .
+mv firmware/.build/kb_default.hex hex/
 
