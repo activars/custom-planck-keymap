@@ -2,10 +2,15 @@
 
 This is a custom made Planck keyboard with a custom circuit layout (not the same comparing to official one).
 
+
+### Default Firmware Layout
+
+<img src="https://raw.githubusercontent.com/activars/custom-planck-keymap/firmware/keyboards/kb/keymaps/default/keyboard-layout.png">
+
 ### How To
 
 ```bash
-# Clone repo and clone submodulees
+# Clone repo and clone submodules
 git clone git@github.com:activars/custom-planck-keymap.git
 cd custom-planck-keymap
 git submodule init && git submodule update
